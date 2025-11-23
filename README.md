@@ -1,13 +1,13 @@
-<h1>📌Website showcasing the operating unit</h1> 
+<h1>📌 Website showcasing the operating unit</h1> 
 
 This webpage was developed to present the structure of the operating unit to the entire organization. It provides:
 
-- An overview of the unit's organizational structure.
-- Details of activities performed by each department.
-- Information on cargo entry and exit processes.
+- An overview of the unit's organizational structure.✔
+- Details of activities performed by each department.✔
+- Information on cargo entry and exit processes.✔
 
 
-## 🚀Technologies
+## 🚀 Technologies
 
 <div>
    <img src="https://img.shields.io/badge/flask-17234E?style=for-the-badge&logo=flask&logoColor=red">
@@ -20,7 +20,7 @@ This webpage was developed to present the structure of the operating unit to the
 
 </div>
 
-## 👨‍💻Developer
+## 👨‍💻 Developer
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101431653?v=4" width=115><br><sub>| Marcelo Lourenço |</sub>](https://github.com/xcelox)
 </div>
